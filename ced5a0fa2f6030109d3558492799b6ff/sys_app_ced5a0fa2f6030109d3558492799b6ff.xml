@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app">
+    <sys_app action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <can_edit_in_studio>true</can_edit_in_studio>
+        <enforce_license>none</enforce_license>
+        <guided_setup_guid/>
+        <hide_on_ui>false</hide_on_ui>
+        <installed_as_dependency>false</installed_as_dependency>
+        <js_level>helsinki_es5</js_level>
+        <licensable>true</licensable>
+        <license/>
+        <license_category>none</license_category>
+        <license_definition/>
+        <license_model>none</license_model>
+        <logo>16d528f22f6030109d3558492799b614</logo>
+        <menu/>
+        <name>Shopping List</name>
+        <private>false</private>
+        <restrict_table_access>false</restrict_table_access>
+        <runtime_access_tracking>permissive</runtime_access_tracking>
+        <scope>x_650493_shopping</scope>
+        <scoped_administration>false</scoped_administration>
+        <short_description>Mobile shopping list</short_description>
+        <source>x_650493_shopping</source>
+        <store_correlation_id/>
+        <store_url/>
+        <sys_class_name>sys_app</sys_class_name>
+        <sys_code/>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-06-08 11:51:57</sys_created_on>
+        <sys_id>ced5a0fa2f6030109d3558492799b6ff</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-06-08 11:51:59</sys_updated_on>
+        <template/>
+        <trackable>true</trackable>
+        <uninstall_blocked>false</uninstall_blocked>
+        <user_role/>
+        <vendor/>
+        <vendor_prefix/>
+        <version>1.0.0</version>
+    </sys_app>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color/>
+        <chunk_size_bytes>700000</chunk_size_bytes>
+        <compressed>true</compressed>
+        <content_type>image/png</content_type>
+        <file_name>cart.png</file_name>
+        <hash>81def02bf0cad3fa1956dcfdde54be02696c1543cb8c92fbd1f97530f5b5438b</hash>
+        <image_height/>
+        <image_width/>
+        <size_bytes>1423</size_bytes>
+        <size_compressed>1446</size_compressed>
+        <state>available</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-06-08 11:51:58</sys_created_on>
+        <sys_id>16d528f22f6030109d3558492799b614</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2021-06-08 11:52:00</sys_updated_on>
+        <table_name>sys_app</table_name>
+        <table_sys_id>ced5a0fa2f6030109d3558492799b6ff</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>H4sIAAAAAAAAAA==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="cart.png" sys_id="16d528f22f6030109d3558492799b614">16d528f22f6030109d3558492799b614</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-06-08 11:51:58</sys_created_on>
+        <sys_id>56d528f22f6030109d3558492799b614</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>AY8FcPqJUE5HDQoaCgAAAA1JSERSAAABDAAAALwIAwAAALrvYGAAAACQUExURf///80zAcsgAMwrAOi6r8kUAMsiAPry7+/LwdhxWeiwp+i8ttZtWei/tuiun/z29ddxX/rv6f37+N+UhNViR8gIAPHRx+Oml/LXz+OhldZoT9uIe9p6Z9dsUtdwWvXi29FMKM45AM9CGtNZONyHdduCbOe1qs9BENqAceKhkNFPM9JWPfTe2NVlSdZuW9FOLD05EQAAAAS6SURBVHic7dxrd6IwEAZgTAheVulCK7Wut7VWt9Zt//+/W6tEsRI0LDET+j7f2gPnTMYASZjgeQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAYFAcx7ZDsGDAghTbEkf9e9uh3d5T0MjHv2EyhlyVjF+2Q7s9fkYmY2Q7tJuL28PheNztTiaTnzujoUzGxHZsBEzTmwh/sB0JAZG8Tma2IyEglsn4bTsSCuTjJLAdCAXzNBniO45Bv3pOrxMR2Y6EgLFMxsZ2JAQs0mSwlu1ICJCzFdazHQkBHZmMpe1ICPBZ+mjt2I6EgBb7vnP4MwORJuPFdiQERDIZY9uREBDLZDzbjoQCOVOb93wDllPb7dOyklM1ZkJwZ7t9Wp5Vy6JVCB5tN09P12QyVk3bzdPzx2AyglfbrdN0bzAZ3LVFklfVe6X/Fzg3qg3NJYO79SjxjjO16rnXMbzEWDIa7q0kToWhVDjYMQ7v1KpPhmNjjE+RqVwsbLeshOb8csNKJcO9O8Z2Dr82kwsXO4bnPRgZgnK35u7S2EQyuJsdwxuZSAZz8Y7hHd+pVcnZ5eVHAwMNRvmO4Y9+Kr1V3zNId4x7cV7md1bwV6GA8Cv9yNT0Q4F0HaXBiWkuRrhjeHHZ1wDlriDett3gQne9H2X4k1LZEJQfJf/hb4ls1LbYuMwYhA1sR21IiZ5R246xrEPHiHpqiTxokP5DfQOdlMgFuYp8XxQ8LtMNWPGk6KDyT1ZBrGNEhWMsvt6983syMxDjQ9ut/2JZnIx9uAamZ59YciG4W0v6BbOygO/Hyn9Y0dyt7CyOXMfwvM57V+klHR42F+pjUu9b3YZWOmpedB2tLqfg2DHWtsM1TLkVNoeod8fQWiLlb7aDNSzSuGcQ35kQ36nElw7Y661q0zGefgcqq92AwJ8pD0g/H3B9vyDeMV4L1j75x/aAlqhw6MXntttbqOhn3SWj0oJY2h2jMBnic+dRlcnYZZewsC9U2K6OOWHKA7QvIObbbu4FcVNFHrH/Kzo31S2jXrtWAKtDs7yp3hv+mjqTkrp/WKCntfpT746RaPWLxpzyHaN53z6atOVsstO+0oPeWjCjvCs2agQn61Xptv9JYWlC+RUuPqdcMv/y5Yfdjw57xiqjQ9sNLjL78svuK1TNbS2hfMfYTtFO5p7BfnQ4YCx/cnpIXfEcVqVPfFteK8xYyjrEaZhPfthtlvlf53oh6Y6hS14/dV/PvYr8iMZ8qpzMFLEdfrUOo031JFatT3u1T1urX7Loa/cm29EycZW7JEla+pL9aY6WiStslqFfokVRL3TsIwiXtd62ww8WvGg+Hzfj7UmMDWvVLxbpAl+gV3ITpqUs3LW9/0VGh2ULobMk8XiY5ji6/ypPprBF56s7g8yUj5uL7rZO1vZW15+XrftxcptinpON8LOrT9tkp78ububN9SvzC2tsjDipGqvNUnB2s564/vVgdmHExS3v+TKVKDolSNmewetylXj+8amgU+a8OSZD64FMW7xOuwbXq9MbyetEEF/k0hLNtiNJzsWD3k6qeCg+T2OzelW0xWF39rzQb5M/+liP/Fqt9wEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACn/ACtOWTt3b8R9AAAAAElFTkSuQmCC3KBgWY8FAAA=</data>
+        <length>1916</length>
+        <position>1</position>
+        <sys_attachment display_value="cart.png" sys_id="16d528f22f6030109d3558492799b614">16d528f22f6030109d3558492799b614</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-06-08 11:51:58</sys_created_on>
+        <sys_id>d6d528f22f6030109d3558492799b614</sys_id>
+    </sys_attachment_doc>
+</record_update>
